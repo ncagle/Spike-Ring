@@ -1,0 +1,28 @@
+# Animations
+- idle (10 frames)
+- walk (6 frames)
+- stand up (6 frames)
+- lie down (6 frames)
+- jump up (4 frames)
+- jump midair inbetween (1 frames)
+- jump landing (4 frames)
+- standing idle (6 frames)
+- flying (6 frames)
+- sleeping (12 frames)
+- rolling (9 frames)
+
+
+# Skins
+- Lil' Cop
+- Lil' Tike
+- Default
+- Candy Corn
+- Ghostly
+- Glizzy
+- Golden
+- Nega
+- Pretty in Pink
+- Radioactive
+- Rainbow
+- Sushi
+- X-mas
